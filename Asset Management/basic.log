@@ -1,0 +1,250 @@
+2018-09-03 10:25:43,681 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 10:25:43,681 INFO [root] - Successful manager login
+2018-09-03 10:27:41,534 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 10:27:41,534 INFO [root] - Successful Admin login
+2018-09-03 11:41:28,395 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 11:41:28,395 INFO [root] - Successful manager login
+2018-09-03 11:41:39,444 ERROR [root] - Typed a character......Error....... required number
+2018-09-03 12:36:48,882 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 12:36:48,882 INFO [root] - Successful manager login
+2018-09-03 15:01:32,636 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:01:32,636 INFO [root] - Successful manager login
+2018-09-03 15:04:01,496 ERROR [root] - Typed a character......Error....... required number
+2018-09-03 15:04:12,358 INFO [root] - User has entered a wrong user ID or Password
+2018-09-03 15:04:34,661 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:04:34,661 INFO [root] - Successful manager login
+2018-09-03 15:05:37,753 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:05:37,753 INFO [root] - Successful manager login
+2018-09-03 15:05:57,178 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:05:57,178 INFO [root] - Successful manager login
+2018-09-03 15:06:03,689 ERROR [root] - Invalid Option chosen by user...need a character but entererd a string
+2018-09-03 15:11:01,276 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:11:01,276 INFO [root] - Successful manager login
+2018-09-03 15:11:44,236 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:11:44,236 INFO [root] - Successful manager login
+2018-09-03 15:13:22,130 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:13:22,130 INFO [root] - Successful manager login
+2018-09-03 15:13:58,318 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:13:58,318 INFO [root] - Successful manager login
+2018-09-03 15:14:18,126 ERROR [root] - Invalid Option chosen by user...need a character but entererd a string
+2018-09-03 15:18:33,334 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:18:33,334 INFO [root] - Successful manager login
+2018-09-03 15:19:12,735 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:19:12,736 INFO [root] - Successful Admin login
+2018-09-03 15:19:21,469 INFO [root] - Entered a non numeric character where required numeric
+2018-09-03 15:19:50,052 INFO [root] - New Asset Added in database
+2018-09-03 15:21:38,775 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:21:38,775 INFO [root] - Successful Admin login
+2018-09-03 15:22:14,704 INFO [root] - New Asset Added in database
+2018-09-03 15:23:21,750 INFO [root] - Asset quantity updated
+2018-09-03 15:23:36,877 INFO [root] - Asset description updated
+2018-09-03 15:25:21,822 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 15:25:21,822 INFO [root] - Successful Admin login
+2018-09-03 15:25:56,185 ERROR [root] - inavlid entry...should be a number
+2018-09-03 15:26:38,854 ERROR [root] - inavlid entry...should be a number
+2018-09-03 15:27:28,501 INFO [root] - Ticket Rejected
+2018-09-03 16:49:16,603 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 16:49:16,603 INFO [root] - Successful manager login
+2018-09-03 16:49:22,009 ERROR [root] - Invalid Option chosen by user...need a character but entererd a string
+2018-09-03 16:49:43,720 ERROR [root] - Invalid Option chosen by user...need a character but entererd a string
+2018-09-03 16:56:09,699 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 16:56:09,699 INFO [root] - Successful manager login
+2018-09-03 16:57:42,730 INFO [root] - LOGIN SUCCESSFUL
+2018-09-03 16:57:42,745 INFO [root] - Successful manager login
+2018-09-04 08:34:04,513 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 08:34:04,513 INFO [root] - Successful manager login
+2018-09-04 08:34:09,396 ERROR [root] - Invalid Option chosen by user...need a character but entererd a string
+2018-09-04 08:34:14,905 ERROR [root] - Invalid Option chosen by user...need a character but entererd a string
+2018-09-04 08:35:32,768 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 08:35:32,768 INFO [root] - Successful manager login
+2018-09-04 08:35:52,122 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 08:35:52,122 INFO [root] - Successful manager login
+2018-09-04 08:35:53,590 ERROR [root] - Invalid Option chosen by user...need a character but entererd a string
+2018-09-04 08:42:24,628 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 08:42:24,628 INFO [root] - Successful manager login
+2018-09-04 08:42:30,600 ERROR [root] - Invalid Option chosen by user...need a character but entererd a string
+2018-09-04 08:42:46,162 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 08:42:46,162 INFO [root] - Successful manager login
+2018-09-04 08:43:05,293 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 08:43:05,293 INFO [root] - Successful manager login
+2018-09-04 09:48:09,988 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 09:48:09,988 INFO [root] - Successful manager login
+2018-09-04 09:50:29,615 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 09:50:29,615 INFO [root] - Successful manager login
+2018-09-04 09:50:37,686 ERROR [root] - The request for generation new Asset ticket is successful with ID140
+2018-09-04 09:50:54,088 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 09:50:54,088 INFO [root] - Successful Admin login
+2018-09-04 09:51:10,208 INFO [root] - Ticket approved
+2018-09-04 10:45:40,908 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 10:45:40,908 INFO [root] - Successful manager login
+2018-09-04 10:45:51,696 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 10:45:51,696 INFO [root] - Successful Admin login
+2018-09-04 10:46:06,677 INFO [root] - New Asset Added in database
+2018-09-04 10:47:38,720 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 10:47:38,720 INFO [root] - Successful Admin login
+2018-09-04 10:48:06,150 INFO [root] - Ticket approved
+2018-09-04 11:06:17,566 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 11:06:17,566 INFO [root] - Successful Admin login
+2018-09-04 11:15:40,009 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 11:15:40,009 INFO [root] - Successful Admin login
+2018-09-04 11:26:55,487 INFO [root] - User has entered a wrong user ID or Password
+2018-09-04 11:28:21,361 ERROR [root] - Typed a character......Error....... required number
+2018-09-04 12:09:57,678 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 12:09:57,678 INFO [root] - Successful manager login
+2018-09-04 12:11:38,237 ERROR [root] - Employee code is not under manager whose id is used in logging in
+2018-09-04 12:11:50,486 ERROR [root] - The request for generation new Asset ticket is successful with ID141
+2018-09-04 12:12:23,807 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 12:12:23,807 INFO [root] - Successful Admin login
+2018-09-04 12:13:09,729 INFO [root] - Ticket approved
+2018-09-04 12:13:38,461 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 12:13:38,461 INFO [root] - Successful manager login
+2018-09-04 14:27:58,571 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 14:27:58,571 INFO [root] - Successful Admin login
+2018-09-04 14:28:35,119 INFO [root] - Asset description updated
+2018-09-04 16:49:55,085 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 16:49:55,085 INFO [root] - Successful Admin login
+2018-09-04 16:53:11,400 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 16:53:11,400 INFO [root] - Successful Admin login
+2018-09-04 16:53:15,349 INFO [root] - User choose to exit
+2018-09-04 16:53:45,808 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 16:53:45,808 INFO [root] - Successful Admin login
+2018-09-04 16:53:48,821 INFO [root] - User choose to exit
+2018-09-04 16:54:36,243 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 16:54:36,243 INFO [root] - Successful Admin login
+2018-09-04 17:24:31,880 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 17:24:31,880 INFO [root] - Successful Admin login
+2018-09-04 17:25:10,323 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 17:25:10,323 INFO [root] - Successful Admin login
+2018-09-04 17:37:22,906 INFO [root] - User has entered a wrong user ID or Password
+2018-09-04 17:38:39,213 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 17:38:39,213 INFO [root] - Successful Admin login
+2018-09-04 17:38:46,796 ERROR [root] - Entered a non numeric where requirement is of numeric
+2018-09-04 17:39:11,405 INFO [root] - Entered a non numeric character where required numeric
+2018-09-04 17:39:35,213 INFO [root] - Entered a non numeric character where required numeric
+2018-09-04 17:39:56,158 INFO [root] - Entered a non numeric character where required numeric
+2018-09-04 17:40:14,165 INFO [root] - New Asset Added in database
+2018-09-04 17:42:42,630 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 17:42:42,630 INFO [root] - Successful Admin login
+2018-09-04 17:43:15,458 INFO [root] - Invalid Entry
+2018-09-04 17:43:25,039 ERROR [root] - inavlid entry...should be a number
+2018-09-04 17:44:24,654 INFO [root] - Ticket approved
+2018-09-04 17:45:48,960 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 17:45:48,960 INFO [root] - Successful manager login
+2018-09-04 17:46:33,947 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 17:46:33,947 INFO [root] - Successful manager login
+2018-09-04 17:51:35,293 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 17:51:35,293 INFO [root] - Successful manager login
+2018-09-04 18:03:44,356 INFO [root] - User has entered a wrong user ID or Password
+2018-09-04 18:03:56,698 INFO [root] - User has entered a wrong user ID or Password
+2018-09-04 18:04:04,251 INFO [root] - LOGIN SUCCESSFUL
+2018-09-04 18:04:04,251 INFO [root] - Successful Admin login
+2018-09-05 08:43:18,152 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 08:43:18,152 INFO [root] - Successful Admin login
+2018-09-05 08:43:37,313 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 08:43:37,313 INFO [root] - Successful Admin login
+2018-09-05 08:44:17,211 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 08:44:17,211 INFO [root] - Successful manager login
+2018-09-05 08:44:39,137 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 08:44:39,137 INFO [root] - Successful manager login
+2018-09-05 08:58:41,457 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 08:58:41,457 INFO [root] - Successful Admin login
+2018-09-05 08:59:07,384 INFO [root] - Entered a non numeric character where required numeric
+2018-09-05 08:59:32,985 INFO [root] - Entered a non numeric character where required numeric
+2018-09-05 09:00:47,649 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 09:00:47,649 INFO [root] - Successful Admin login
+2018-09-05 09:01:25,887 INFO [root] - Entered a non numeric character where required numeric
+2018-09-05 09:57:00,108 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 09:57:00,108 INFO [root] - Successful Admin login
+2018-09-05 09:57:16,494 INFO [root] - Entered a non numeric character where required numeric
+2018-09-05 10:00:27,609 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 10:00:27,609 INFO [root] - Successful manager login
+2018-09-05 10:00:40,693 ERROR [root] - Invalid Option chosen by user...need a character but entererd a string
+2018-09-05 10:08:58,426 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 10:08:58,426 INFO [root] - Successful manager login
+2018-09-05 10:10:02,839 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 10:10:02,839 INFO [root] - Successful manager login
+2018-09-05 10:33:08,042 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 10:33:08,042 INFO [root] - Successful Admin login
+2018-09-05 10:33:32,223 INFO [root] - Ticket approved
+2018-09-05 10:47:44,778 INFO [root] - User has entered a wrong user ID or Password
+2018-09-05 10:47:56,910 INFO [root] - LOGIN SUCCESSFUL
+2018-09-05 10:47:56,910 INFO [root] - Successful Admin login
+2018-09-05 10:48:24,101 INFO [root] - Invalid Entry
+2018-09-05 10:49:19,597 INFO [root] - Ticket approved
+2018-09-05 10:50:14,019 INFO [root] - Invalid Entry
+2018-09-06 08:57:27,086 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 08:57:27,086 INFO [root] - Successful Admin login
+2018-09-06 08:57:36,885 INFO [root] - Ticket approved
+2018-09-06 08:58:32,024 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 08:58:32,024 INFO [root] - Successful Admin login
+2018-09-06 08:58:47,833 INFO [root] - Ticket approved
+2018-09-06 09:01:37,094 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 09:01:37,094 INFO [root] - Successful Admin login
+2018-09-06 09:01:57,246 INFO [root] - Ticket approved
+2018-09-06 09:20:29,443 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 09:20:29,443 INFO [root] - Successful Admin login
+2018-09-06 09:20:42,274 INFO [root] - Ticket approved
+2018-09-06 09:23:49,038 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 09:23:49,038 INFO [root] - Successful Admin login
+2018-09-06 09:23:54,679 INFO [root] - Invalid Entry
+2018-09-06 09:26:51,423 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 09:26:51,423 INFO [root] - Successful Admin login
+2018-09-06 10:13:48,168 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 10:13:48,169 INFO [root] - Successful Admin login
+2018-09-06 14:56:33,621 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 14:56:33,621 INFO [root] - Successful Admin login
+2018-09-06 14:59:24,007 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 14:59:24,007 INFO [root] - Successful Admin login
+2018-09-06 14:59:32,886 INFO [root] - Entered a non numeric character where required numeric
+2018-09-06 15:01:07,839 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 15:01:07,839 INFO [root] - Successful Admin login
+2018-09-06 15:01:16,907 ERROR [root] - Entered a non numeric where requirement is of numeric
+2018-09-06 15:41:26,681 ERROR [root] - Typed a character......Error....... required number
+2018-09-06 15:41:45,212 INFO [root] - User has entered a wrong user ID or Password
+2018-09-06 15:42:01,104 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 15:42:01,104 INFO [root] - Successful Admin login
+2018-09-06 15:43:23,709 INFO [root] - Ticket approved
+2018-09-06 15:43:41,782 INFO [root] - Ticket approved
+2018-09-06 15:44:45,610 INFO [root] - New Manager ID created
+2018-09-06 15:45:15,387 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 15:45:15,387 INFO [root] - Successful manager login
+2018-09-06 15:46:29,196 ERROR [root] - Employee code is not under manager whose id is used in logging in
+2018-09-06 15:47:47,393 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 15:47:47,393 INFO [root] - Successful manager login
+2018-09-06 15:48:02,300 ERROR [root] - The request for generation new Asset ticket is successful with ID160
+2018-09-06 15:48:31,888 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 15:48:31,888 INFO [root] - Successful Admin login
+2018-09-06 15:48:42,965 INFO [root] - Ticket approved
+2018-09-06 16:45:51,552 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 16:45:51,552 INFO [root] - Successful Admin login
+2018-09-06 16:47:16,809 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 16:47:16,809 INFO [root] - Successful Admin login
+2018-09-06 16:49:26,774 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 16:49:26,774 INFO [root] - Successful Admin login
+2018-09-06 16:50:06,632 INFO [root] - User has entered a wrong user ID or Password
+2018-09-06 16:50:10,850 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 16:50:10,850 INFO [root] - Successful Admin login
+2018-09-06 16:51:01,991 INFO [root] - LOGIN SUCCESSFUL
+2018-09-06 16:51:01,991 INFO [root] - Successful Admin login
+2018-09-07 10:39:40,041 INFO [root] - LOGIN SUCCESSFUL
+2018-09-07 10:39:40,041 INFO [root] - Successful Admin login
+2018-09-07 10:57:58,979 INFO [root] - User has entered a wrong user ID or Password
+2018-09-07 10:58:18,076 INFO [root] - LOGIN SUCCESSFUL
+2018-09-07 10:58:18,076 INFO [root] - Successful manager login
+2018-09-07 10:58:33,886 INFO [root] - User has entered a wrong user ID or Password
+2018-09-07 10:58:37,288 INFO [root] - LOGIN SUCCESSFUL
+2018-09-07 10:58:37,288 INFO [root] - Successful Admin login
+2018-09-07 11:00:04,613 INFO [root] - LOGIN SUCCESSFUL
+2018-09-07 11:00:04,613 INFO [root] - Successful Admin login
+2018-09-07 11:03:34,822 INFO [root] - LOGIN SUCCESSFUL
+2018-09-07 11:03:34,822 INFO [root] - Successful manager login
+2018-09-07 11:03:51,070 INFO [root] - LOGIN SUCCESSFUL
+2018-09-07 11:03:51,070 INFO [root] - Successful Admin login
+2018-09-07 11:09:32,060 INFO [root] - LOGIN SUCCESSFUL
+2018-09-07 11:09:32,060 INFO [root] - Successful Admin login
+2018-09-07 11:12:57,594 INFO [root] - LOGIN SUCCESSFUL
+2018-09-07 11:12:57,594 INFO [root] - Successful Admin login
+2018-09-07 11:14:53,265 INFO [root] - LOGIN SUCCESSFUL
+2018-09-07 11:14:53,265 INFO [root] - Successful Admin login
+2018-09-07 11:15:59,328 INFO [root] - LOGIN SUCCESSFUL
+2018-09-07 11:15:59,328 INFO [root] - Successful Admin login
